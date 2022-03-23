@@ -1,0 +1,10 @@
+{
+  "name": "MapApp",
+  "displayName": "MapApp",
+  "android": {
+    "softwareKeyboardLayoutMode": "pan",
+    "package": "com.vaeniin.mapapp",
+    "versionCode": 1,
+    "permissions": []
+  }
+}
